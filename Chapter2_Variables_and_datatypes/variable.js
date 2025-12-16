@@ -19,14 +19,15 @@ console.log(PI);
 
 var age=23;
 console.log(age);
-
-let count=10;
-console.log(count);
-
 //Update the age 
 age=24;
 console.log(age);
+var first_name="Anushruti";
+var last_name="Mahato";
+console.log(first_name,last_name);
 
+let count=10;
+console.log(count);
 //Update the count variable by 1
 count=count+1;
 console.log(count);

@@ -22,8 +22,8 @@ console.log(age);
 //Update the age 
 age=24;
 console.log(age);
-var first_name="Anushruti";
-var last_name="Mahato";
+var first_name="Code";
+var last_name="Chef";
 console.log(first_name,last_name);
 
 let count=10;
